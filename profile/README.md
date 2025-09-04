@@ -4,4 +4,4 @@ We (currently [@mikerenfro](https://github.com/mikerenfro/), [@SColson82](https:
 
 We manage the on-campus HPC environment, facilitate use of federally-funded resources including those in the NSF ACCESS program, and do a lot of training and consulting.
 
-Contact us at [https://www.rcd.tntech.edu/contact/](www.rcd.tntech.edu/contact) for more information.
+Contact us at [www.rcd.tntech.edu/contact/](https://www.rcd.tntech.edu/contact) for more information.
